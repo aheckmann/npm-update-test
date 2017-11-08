@@ -1,0 +1,13 @@
+{
+  "name": "testing-npm-outdated-failures-0",
+  "version": "1.0.0",
+  "description": "Testing npm outdated failures",
+  "author": "Mr Test",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "promise-http-client": "~0.1.0"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
